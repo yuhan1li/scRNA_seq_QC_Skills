@@ -1,0 +1,8 @@
+interface:
+  display_name: "Single-Cell Basic Analysis"
+  short_description: "Seurat workflow for clustering, Harmony batch correction, SingleR annotation, and composition plots."
+  default_prompt: "Use $single-cell-basic-analysis to build or adapt a Seurat workflow for single-cell RNA-seq QC, clustering, batch correction, and SingleR annotation."
+
+policy:
+  allow_implicit_invocation: true
+
